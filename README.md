@@ -79,6 +79,12 @@ Conclusion : model wasn't finetuned with this prompt template.
     <|im_start|>assistant
     """
     ```
+
+    Run the following command to try it yourself :
+    ```bash
+    modal run evaluate
+    ```
+    Note: Remeber to install requirements
     And now output was generated in consistent format every time
 
 - Running the model on Modal
