@@ -121,7 +121,7 @@ Conclusion : model wasn't finetuned with this prompt template.
 
 - A high Prediction of False in Translation proves that model is biased towards predicting false.
 - Quality of Training Data should be checked and verified. Most accuracy depends on it.
-- One can include categories of why the model output false, categories may include as defined in system prompt
+- One can include categories in output of assistant in training data for why the model generated output false, categories may include as defined in system prompt
     - coding problems
     - alliteration
     - idioms
